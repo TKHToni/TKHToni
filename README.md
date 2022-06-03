@@ -1,4 +1,4 @@
- <img align="right" src="https://github.com/TKHToni/TKHToni/blob/main/images/3301602-removebg-preview.png" width="350"/>
+ <img align="right" src="https://github.com/TKHToni/TKHToni/blob/main/images/3301603.png" width="350"/>
 
 ## Welcome to my Github Profile 😜
 
