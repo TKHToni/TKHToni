@@ -11,6 +11,9 @@
  <p>
   I’m an Engineering student and Software Developer that loves to learn about programming, data science and anything related to computers. I currently work as a Backend Developer Intern at A1RX.
  </p>
+ 
+ <br />
+ 
  <ul>
   <li>🚗 I am a car guy.</li>
   <li>🔧 I worked as a Suspension Engineer at Equipe Poli de Baja student team from the University of São Paulo (USP) </li>
