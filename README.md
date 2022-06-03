@@ -21,8 +21,8 @@ I’m an Engineering student and Software Developer that loves to learn about ab
 
 <div align="center">
   <a href="https://github.com/TKHToni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TKHToni&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKHToni&layout=compact&langs_count=7&theme=gotham "/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TKHToni&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKHToni&layout=compact&langs_count=7&theme=prussian "/>
 </div>
 <div align="center">
 
