@@ -4,9 +4,7 @@
 
 <div>
  
- <img align="right" src="https://github.com/TKHToni/TKHToni/blob/main/images/3301603.png" width="380"/>
- 
- <br />
+ <img align="right" src="https://github.com/TKHToni/TKHToni/blob/main/images/3301603.png" width="350"/>
  
  <br />
  
