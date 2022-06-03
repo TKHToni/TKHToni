@@ -22,8 +22,6 @@
 
 <br />
 
-<br />
-
 ## 🛠 My Tools and Languages
 
 <br />
