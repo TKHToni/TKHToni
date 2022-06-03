@@ -9,8 +9,6 @@ I’m an Engineering student and Software Developer that loves to learn about ab
 - 🔧 I worked as a Suspension Engineer at Equipe Poli de Baja student team from the University of São Paulo (USP) 
 - 👨🏻‍💻 I learn everyday about programming at work, by studying by myself and by participating in hackathons.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Taiki%20Hashizume-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taiki-hashizume/)](https://www.linkedin.com/in/taiki-hashizume/)
-
 <br />
 
 <br />
@@ -46,6 +44,18 @@ I’m an Engineering student and Software Developer that loves to learn about ab
 </div> 
 
 <br />
+ 
+<div align="center">
+  <h3 align="center">Connect with me</h3> 
+</div>
+<p align="center">
+ <a href="https://www.linkedin.com/in/taiki-hashizume/" target="blank">
+  <img align="center" alt="Taiki's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+<br/>
+<br/>
+ 
+##
 
 ***
 
