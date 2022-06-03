@@ -54,8 +54,6 @@
   ![](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 </div> 
 
-<br />
-
 ##
  
 <div align="center">
