@@ -4,9 +4,7 @@
 
 <div>
  
- <br />
- 
- <img align="right" src="https://github.com/TKHToni/TKHToni/blob/main/images/3301603.png" width="300"/>
+ <img align="right" src="https://github.com/TKHToni/TKHToni/blob/main/images/3301603.png" width="350"/>
  
  <p>
   I’m an Engineering student and Software Developer that loves to learn about programming, data science and anything related to computers. I currently work as a Backend Developer Intern at A1RX.
