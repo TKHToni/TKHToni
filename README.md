@@ -1,13 +1,22 @@
- <img align="right" src="https://github.com/TKHToni/TKHToni/blob/main/images/3301603.png" width="350"/>
+ 
 
-## Welcome to my Github Profile 😜
+## Welcome to my Github Profile 🤝
 
-
-I’m an Engineering student and Software Developer that loves to learn about about programming, data science and anything related to computers. I currently work as a Backend Developer Intern at A1RX. 
-
-- 🚗 I am a car guy.
-- 🔧 I worked as a Suspension Engineer at Equipe Poli de Baja student team from the University of São Paulo (USP) 
-- 👨🏻‍💻 I learn everyday about programming at work, by studying by myself and by participating in hackathons.
+<div>
+ 
+ <br />
+ 
+ <img align="right" src="https://github.com/TKHToni/TKHToni/blob/main/images/3301603.png" width="300"/>
+ 
+ <p>
+  I’m an Engineering student and Software Developer that loves to learn about programming, data science and anything related to computers. I currently work as a Backend Developer Intern at A1RX.
+ </p>
+ <ul>
+  <li>🚗 I am a car guy.</li>
+  <li>🔧 I worked as a Suspension Engineer at Equipe Poli de Baja student team from the University of São Paulo (USP) </li>
+  <li>👨🏻‍💻 I learn everyday about programming at work, at the University and by studying and taking part in hackathons.</li>
+ </ul>
+</div>
 
 <br />
 
@@ -44,6 +53,8 @@ I’m an Engineering student and Software Developer that loves to learn about ab
 </div> 
 
 <br />
+
+##
  
 <div align="center">
   <h3 align="center">Connect with me</h3> 
@@ -54,9 +65,9 @@ I’m an Engineering student and Software Developer that loves to learn about ab
  </a>
 <br/>
 <br/>
- 
-##
 
-***
 
-<a href='https://www.freepik.com/vectors/programming-language'>Illustration created by storyset</a>
+<div align="center">
+ <a href='https://www.freepik.com/vectors/programming-language'>Illustration created by storyset</a>
+</div>
+
