@@ -9,7 +9,7 @@
  <br />
  
  <p>
-  I’m an Engineering student and Software Developer that loves to learn about programming, data science and anything related to computers. I currently work as a Backend Developer Intern at A1RX.
+  I’m an Engineering student and Software Developer that loves to learn about programming, data science and anything related to computers. I have job experiences working as a Backend Developer Intern.
  </p>
  
  <ul>
